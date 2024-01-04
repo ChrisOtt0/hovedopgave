@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-src\src\catch2\internal\catch_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BB89308B-F3DF-3F4F-81B3-C001FB3E35D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

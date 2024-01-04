@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\7faee6033862cae16a5cc57e0b6f0299\catch2-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\217d6d127b3da04740c94b5a1dee7df8\catch2-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\9956f570672d6f3e084c6a0c222b5c5a\catch2-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\_deps\catch2-subbuild\CMakeFiles\catch2-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5FEC3B46-018B-3E53-8B0E-94BB6B3C8FBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+[project]
+name = "rflash.server"
+version = "0.0.1"
+description = "Remote flash server service, for flashing embedded products using JLinkExe Commander program and a SEGGER J-Link debug probe."
+authors = ["Sophus Christoffer Ott <2sct@agramkow.com>"]

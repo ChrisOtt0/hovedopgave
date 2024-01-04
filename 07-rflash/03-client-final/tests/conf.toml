@@ -1,0 +1,4 @@
+device = "R7FA6M2AF3CFB"
+interface = "SWD"
+jtagconf = "-1 -1"
+"speed" = "auto"

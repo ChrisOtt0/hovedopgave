@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\CMakeFiles\9cf677f79f61a5e5eb8b8bc7e816c18e\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DKSGD2SCT\OneDrive - Durr Group\Documents\Hovedopgave\Rapport\Bilag\03_unittests\catch2-test\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AB597358-2FE0-336E-8ADD-152CB11033C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

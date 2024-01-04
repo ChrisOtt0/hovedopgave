@@ -1,0 +1,8 @@
+[project]
+name = "rflash.client"
+version = "1.0.0"
+description = "Remote flash client service, for flashing embedded products using JLinkExe Commander program and a SEGGER J-Link debug probe."
+authors = ["Sophus Christoffer Ott <2sct@agramkow.com>"]
+
+[project.dependencies]
+rsa = "4.9"
